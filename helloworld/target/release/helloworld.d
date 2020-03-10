@@ -1,0 +1,1 @@
+/home/jeff/MEGAsync/文档/github.com/learnrust/helloworld/target/release/helloworld: /home/jeff/MEGAsync/文档/github.com/learnrust/helloworld/src/main.rs /home/jeff/MEGAsync/文档/github.com/learnrust/helloworld/src/strings.rs
